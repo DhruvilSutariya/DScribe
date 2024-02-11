@@ -12,8 +12,8 @@ Things that I will learn / write about:
   -  Elements to consider while designing a class / behavior etc.
   -  Some practical implementations, comparing two alternate solutions
   -  How a performance can be improved by just designing it in a different way etc.
--  Other components in a real world
-  -  It's not just programs that we write in a computer are important, There are stuffs as well like
+- Other components in a real world
+  - It's not just programs that we write in a computer are important, There are stuffs as well like
     - Networking, Scheduling, Permanent storages (Databases) etc.
 - Competitve programming
   - Algorithms and some really cool data structures.
